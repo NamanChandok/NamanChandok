@@ -9,7 +9,9 @@
 <br />
 ---
 
-![Naman's github stats](https://github-readme-stats.vercel.app/api?username=namanchandok&hide=stars,issues&count_private=true&show_icons=true&bg_color=#000,#0a0a0a&title_color=#e30007&text_color=#fff&icon_color=#e30007)
+![Naman's github stats](https://github-readme-stats.vercel.app/api?username=namanchandok&hide=stars,issues&count_private=true&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=namanchandok&layout=compact)](https://github.com/namanchandok/github-readme-stats)
+
 
 
 [website]: https://namanchandok.co
