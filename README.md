@@ -10,13 +10,7 @@
 
 ---
 
-![Naman's github stats](https://github-readme-stats.vercel.app/api?username=namanchandok&hide=stars,issues&count_private=true&show_icons=true,&show_rank=true)
-
-<br />
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=namanchandok&layout=compact)](https://github.com/namanchandok/github-readme-stats)
-
-
+![Naman's github stats](https://github-readme-stats.vercel.app/api?username=namanchandok&hide=stars,issues&count_private=true&show_icons=true,&include_all_commits=true,&hide_rank=false)
 
 [website]: https://namanchandok.co
 [twitter]: https://twitter.com/ChandokNaman
