@@ -1,4 +1,4 @@
-### 👋 Hi, I'm _Naman Chandok_.
+## 👋 Hi, I'm _Naman Chandok_.
 
 ### 📫 How to reach me: 
 [<img align="left" alt="namanchandok.co" width="20px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
