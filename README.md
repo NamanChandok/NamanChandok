@@ -10,7 +10,7 @@
 
 ---
 
-![Naman's github stats](https://github-readme-stats.vercel.app/api?username=namanchandok&hide=stars,issues&count_private=true&show_icons=true)
+![Naman's github stats](https://github-readme-stats.vercel.app/api?username=namanchandok&hide=stars,issues&count_private=true&show_icons=true,&show_rank=true)
 
 <br />
 
