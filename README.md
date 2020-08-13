@@ -8,8 +8,6 @@
 
 <br />
 
----
-
 ![Naman's github stats](https://github-readme-stats.vercel.app/api?username=namanchandok&hide=stars,issues&count_private=true&show_icons=true&include_all_commits=true&hide_rank=false&bg_color=30,000000,0a0a0a&title_color=e30007&text_color=fff&icon_color=e30007)
 
 [website]: https://namanchandok.co
