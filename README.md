@@ -7,6 +7,6 @@
 
 
 [website]: https://namanchandok.co
-[twitter]: https://twitter.com/ChandokNaman
+[twitter]: https://twitter.com/br0wot
 [instagram]: https://instagram.com/namanchandok
 [email]: mailto:i@namanchandok.co
