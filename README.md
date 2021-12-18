@@ -6,7 +6,7 @@
 [<img align="left" alt="email" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/gmail.svg" />][email]
 
 
-[website]: https://namanchandok.co
+[website]: https://namanchandok.github.io
 [twitter]: https://twitter.com/br0wot
 [instagram]: https://instagram.com/namanchandok
-[email]: mailto:i@namanchandok.co
+[email]: mailto:namanchandok1@gmail.com
