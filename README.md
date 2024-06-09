@@ -72,9 +72,9 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=namanchandok&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&hide=contribs&rank_icon=github" height="132" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=namanchandok&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=true&order=2" height="132" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=namanchandok&locale=en&mode=weekly&theme=tokyonight&hide_border=true&border_radius=5&order=3" height="132" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=namanchandok&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&hide=contribs&rank_icon=github" height="140" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=namanchandok&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=true&order=2" height="140" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=namanchandok&locale=en&mode=weekly&theme=tokyonight&hide_border=true&border_radius=5&order=3" height="140" alt="streak graph"  />
 </div>
 
 ###
