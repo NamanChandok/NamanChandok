@@ -74,7 +74,7 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=namanchandok&show_icons=true&count_private=true&hide_border=true&hide=contribs&rank_icon=github&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5" height="140" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=namanchandok&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&hide_border=true&order=2&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5" height="140" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=namanchandok&locale=en&mode=weekly&hide_border=true&border_radius=5&order=3" height="140" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=namanchandok&theme=catppuccin-mocha&hide_border=true&border_radius=5" height='140' alt="GitHub Streak" />
 </div>
 
 ###
