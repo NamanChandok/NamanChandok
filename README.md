@@ -14,8 +14,8 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=namanchandok&show_icons=true&count_private=true&hide_border=true&hide=contribs&rank_icon=github&theme=catppuccin-mocha" height="140" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=namanchandok&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&hide_border=true&order=2&theme=catppuccin-mocha" height="140" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=namanchandok&show_icons=true&count_private=true&hide_border=true&hide=contribs&rank_icon=github&theme=catppuccin_mocha" height="140" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=namanchandok&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&hide_border=true&order=2&theme=catppuccin_mocha" height="140" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=namanchandok&theme=catppuccin-mocha&hide_border=true&border_radius=5" height='140' alt="GitHub Streak" />
 </div>
 
