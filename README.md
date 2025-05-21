@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Naman Chandok
 
-- 🌱 I’m currently exploring **TensorfFow, Keras**
+- 🌱 I’m currently exploring **TensorFlow, Keras**
 - 👯 I’m looking to collaborate on **Machine Learning projects**
 - 👨‍💻 All of my projects are available at [namanchandok.me](https://namanchandok.me)
 - 📫 How to reach me **namanchandok1@gmail.com**
