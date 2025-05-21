@@ -1,9 +1,11 @@
 # 👋 Hi, I'm Naman Chandok
 
-- 🌱 I’m currently learning **node.js**
+- 🌱 I’m currently exploring **TensorfFow, Keras**
+- 👯 I’m looking to collaborate on **Machine Learning projects**
 - 👨‍💻 All of my projects are available at [namanchandok.me](https://namanchandok.me)
-- 💬 Pronouns **he/him**
 - 📫 How to reach me **namanchandok1@gmail.com**
+- ⚡ Fun fact: **I break stuff just to fix it better.**
+- 💬 Pronouns **he/him**
 
 ## Github Stats
 
