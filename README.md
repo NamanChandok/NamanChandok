@@ -10,7 +10,6 @@
 ## Github Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=namanchandok&show_icons=true&count_private=true&hide_border=true&hide=contribs&rank_icon=github&bg_color=111111&title_color=5f8787&text_color=e1e1e1&icon_color=dd9999" height="140" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=namanchandok&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&hide_border=true&order=2&bg_color=111111&title_color=5f8787&text_color=e1e1e1&icon_color=dd9999" height="140" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=namanchandok&theme=catppuccin-mocha&hide_border=true&border_radius=5&mode=weekly&background=111111&ring=5f8787&dates=e1e1e1&sideLabels=e1e1e1&fire=dd9999&stroke=dd9999&sideNums=dd9999&currStreakNum=dd9999&currStreakLabel=dd9999" height='140' alt="GitHub Streak" />
 </div>
