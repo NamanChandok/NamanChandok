@@ -1,4 +1,5 @@
-# 👋 Hi, I'm Naman Chandok
+<img style="width:100%" alt="Naman Chandok" src="https://github.com/user-attachments/assets/c4e2eeef-969d-4637-bc8b-af6c1fdca340" />
+
 
 - 🌱 I’m currently exploring **TensorFlow, Keras**
 - 👯 I’m looking to collaborate on **Machine Learning projects**
