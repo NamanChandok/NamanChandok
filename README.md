@@ -1,7 +1,7 @@
 <img style="width:100%" alt="Naman Chandok" src="https://github.com/user-attachments/assets/c4e2eeef-969d-4637-bc8b-af6c1fdca340" />
 
 ## 
-- 👨‍💻 All of my projects are available at [namanchandok.me](https://namanchandok.me)
+- 👨‍💻 All of my projects are available at [namanchandok.in](https://namanchandok.in)
 - 📫 How to reach me **namanchandok1@gmail.com**
 - ⚡ Fun fact: **I break stuff just to fix it better.**
 - 💬 Pronouns **he/him**
